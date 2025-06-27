@@ -1,0 +1,31 @@
+# Java class files
+*.class
+
+# Backup files
+*.java~
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/
+
+# VSCode
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Logs
+*.log
+
+# Generated files or builds
+bin/
+build/
+out/

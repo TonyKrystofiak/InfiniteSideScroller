@@ -1,6 +1,6 @@
 /**
  * The Entity abstract class creates the framework for all on-screen objects such as the player and platforms.
- * @author Tony Krystofiak comments by Sam Edwards
+ * @author Tony Krystofiak
  * 4/23/2023
  */
 

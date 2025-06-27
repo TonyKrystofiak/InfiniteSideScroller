@@ -1,6 +1,6 @@
 /**
  * The MouseInputs class handles instances in which the mouse inputs are registered.
- * @author Tony Krystofiak comments by Sam Edwards
+ * @author Tony Krystofiak
  * 4/20/2023
  */
 package inputs;

@@ -1,6 +1,6 @@
 /**
  * The GameWindow class creates the game window.
- * @author Tony Krystofiak comments by Sam Edwards
+ * @author Tony Krystofiak
  * 4/18/2023
  */
 package main;

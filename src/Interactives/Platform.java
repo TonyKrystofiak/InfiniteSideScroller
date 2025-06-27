@@ -1,6 +1,6 @@
 /**
  * The Platform class creates the platforms and hitboxes generated on the screen.
- * @author Tony Krystofiak comments by Sam Edwards
+ * @author Tony Krystofiak
  * @date 4/23/2023
  */
 package Interactives;

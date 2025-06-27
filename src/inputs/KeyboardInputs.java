@@ -1,6 +1,6 @@
 /**
  * The KeyboardInputs class handles instances in which the keyboard inputs are registered.
- * @author Tony Krystofiak comments by Sam Edwards
+ * @author Tony Krystofiak
  * 4/20/2023
  */
 package inputs;

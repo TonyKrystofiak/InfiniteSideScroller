@@ -1,6 +1,6 @@
 /**
  * The GamePanel class handles the display within the game loop, logic within the game loop, and interactions between other objects in the game loop.
- * @author Tony Krystofiak comments by Sam Edwards
+ * @author Tony Krystofiak
  * 4/18/2023
  */
 package main;

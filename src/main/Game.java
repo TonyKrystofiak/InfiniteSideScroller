@@ -1,7 +1,7 @@
 /**
  * The Game class initializes and combines the StarterGUI, GameWindow, and GamePanel classes. 
  * Contains the game loop and implements the Runnable interface to determine the UPS and FPS of the game.
- * @author Tony Krystofiak comments by Sam Edwards
+ * @author Tony Krystofiak
  * 4/18/2023
  */
 package main;

@@ -1,7 +1,7 @@
 /**
  * The main class creates an instance of the Game class
  * Running this class starts the game
- * @author Tony Krystofiak comments by Sam Edwards
+ * @author Tony Krystofiak
  * 4/18/2023
  */
 package main;

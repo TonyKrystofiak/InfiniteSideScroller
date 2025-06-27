@@ -1,6 +1,6 @@
 /**
  * The player class inherits the abstract class entity and stores information about the player and its hitboxes.
- * @author Tony Krystofiak comments by Sam Edwards
+ * @author Tony Krystofiak
  * 4/25/2023
  */
 package Interactives;
