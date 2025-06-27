@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author apkry
+ *
+ */
+module CS160FinalProject {
+	requires java.desktop;
+}
