@@ -5,8 +5,8 @@ A fast-paced endless runner game built with Java Swing where the goal is to keep
 ## Game Overview 🎮
 
 - Run endlessly in a 2D side-scrolling world.
-- Avoid the red blocks — touching them ends the game immediately.
-- Don’t hit the left wall — touching it means game over!
+- Avoid the red blocks: touching them ends the game immediately.
+- Don’t hit the left wall: touching it means game over!
 - Test your reflexes and see how far you can survive!
 
 ## How to Play 🕹️
