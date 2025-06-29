@@ -7,12 +7,11 @@ A fast-paced endless runner game built with Java Swing where the goal is to keep
 - Run endlessly in a 2D side-scrolling world.
 - Avoid the red blocks: touching them ends the game immediately.
 - Don’t hit the left wall: touching it means game over!
-- Test your reflexes and see how far you can survive!
 
 ## How to Play 🕹️
 
 - Use the keyboard to control your character:
-  - Arrow keys or WASD to move and jump (specify exact controls if you want).
+  - WASD to move and space to jump.
 - Keep running to the right endlessly.
 - Dodge all red blocks and never touch the left wall.
 
